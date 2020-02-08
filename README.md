@@ -13,7 +13,7 @@ Asunto: CRP - G3 - Taller <Número y/o Título del Taller>
 Fecha límite de entrega: 14 de marzo del 2020  
 
 ### Talleres actuales:  
-**Taller 1:** "Taller de dato entregado los primeros dias de la clase"
+**Taller 1:** "Taller de dato entregado los primeros dias de la clase"  
 **Taller 2:** 10-08/Actividades/3-FeatureSelection  
 **Taller 3:** 10-08/Actividades/4-FeatureExtraction  
 **Taller 4:** Competencia  
